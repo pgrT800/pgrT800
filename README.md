@@ -42,7 +42,7 @@ Python · Rust · C · Bash · Lua · Linux
 **[Wallpaper-сервер]**  
 Демон для смены обоев на нескольких мониторах по горячей клавише. Сервер + клиент + логирование.  
 `Bash` `Lua` `systemd`  
-→ Скоро
+→ [https://github.com/pgrT800/wallpaper-changer-service]
 
 
 ---
