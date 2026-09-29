@@ -3,7 +3,7 @@
 **Backend / Infrastructure разработчик.**  
 Строю системы, которые работают там, где готовых решений нет.
 
-Python · Rust · C · Bash · Lua · Linux
+
 
 ---
 
